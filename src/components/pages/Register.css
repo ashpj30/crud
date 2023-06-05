@@ -1,0 +1,89 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    height: 500px;
+    background: linear-gradient(#ffcccc,#3333ff );
+  }
+  
+  .reg-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+   
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+  }
+  
+  .reg-box h1 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .reg-box .user-box {
+    position: relative;
+  }
+  
+  .reg-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
+  .reg-box .user-box label {
+    position: absolute;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+  }
+  
+  .reg-box .user-box input:focus ~ label,
+  .reg-box .user-box input:valid ~ label {
+    top: -20px;
+    left: 0;
+    color: #03e9f4;
+    font-size: 12px;
+  }
+  
+  .butt {
+    background-color: #7a0a6b;
+    border: none;
+    color:#7a0a6b;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .butt1{
+   
+        background-color: #7a0a6b;
+        border: none;
+        color:black;
+       
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+       
+        cursor: pointer;
+      }
+  

@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Ashwini",
+      "username": "ash22",
+      "email": "ash@12gmail.com1"
+    },
+    {
+      "name": "raj",
+      "username": "sds",
+      "email": "dcsfv@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "username": "abc1",
+      "email": "abc@gmail.com",
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "id": "Ashwini ",
+      "name": "Ashwini jadhav",
+      "email": "ashwini@gmail.com",
+      "phoneno": "76465764",
+      "password": "Ashwini@123"
+    },
+    {
+      "id": "1",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "phoneno": "54657687",
+      "password": "Abc@1234"
+    },
+    {
+      "id": "raj",
+      "name": "raj j",
+      "email": "raj@gmail.com",
+      "phoneno": "765878988",
+      "password": "Raj@1234"
+    },
+    {
+      "id": "p6SigEI",
+      "name": "",
+      "email": "",
+      "phoneno": "",
+      "password": ""
+    },
+    {
+      "id": "aa",
+      "name": "aadd",
+      "email": "assd@gmail.com",
+      "phoneno": "56647687856",
+      "password": "Ashwini@1234"
+    },
+    {
+      "id": "2",
+      "name": "ashwini",
+      "email": "ash@gmail.com",
+      "phoneno": "2324",
+      "password": "Ashwini@123"
+    },
+    {
+      "id": "xZZ0S2S",
+      "name": "",
+      "email": "",
+      "phoneno": "",
+      "password": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
